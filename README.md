@@ -20,3 +20,10 @@ For each article I'll answer the following questions in my repository:
 
 1. the same as before reading; 
 2. watch the video and answer the 3 questions.
+
+## Intro to HTML and CSS
+
+[my completed task](./3.Intro%20to%20HTML%20%26%20CSS/intro%20to%20HTML%26CSS.md)
+
+➡️ 
+⤴️ 

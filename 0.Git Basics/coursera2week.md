@@ -60,3 +60,4 @@ An alias to --cached, this will show all staged files compared to the named comm
 With **git revert**, a new commit is created with inverse changes. This cancels previous changes instead of making it as though the original commit never happened. It’s a bit like an undo command.
 
 continue [here](https://www.coursera.org/learn/introduction-git-github/lecture/0X9k7/what-is-a-branch)
+[styling .md file](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)

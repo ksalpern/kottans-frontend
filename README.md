@@ -11,12 +11,14 @@ Thanks for your time!)
 
 ## Git Collaboration
  
-[screenshots]()
+See [screenshots]()
 
  [More about it](./task_git_collaboration/GitCollaboration.md)
 
 ## Intro to HTML and CSS
 
-More about [task +screenshots](./task_html_css_intro/intro%20to%20HTML%26CSS.md)
+See [css](./task_html_css_intro/screenshots/css1.png) and [html](./task_html_css_intro/screenshots/html1.png) screenshots.
+
+More about the [task](./task_html_css_intro/intro%20to%20HTML%26CSS.md)
 
 

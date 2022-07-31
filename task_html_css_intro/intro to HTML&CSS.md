@@ -3,6 +3,8 @@
 
 #### See completed [CSS basics](./screenshots/css1.png)
 
+#### See completed [codecademy](./screenshots/codecademy.png)
+
 I already worked with HTML&CSS, you can check my recent repos and also my [codepen](https://codepen.io/ksalpern/). 
 
 I liked lectures from Coursera, the material is quite important for those who only starts but of course, the best way to learn programming is to practice.

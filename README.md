@@ -17,7 +17,7 @@ See [screenshots]()
 
 ## Intro to HTML and CSS
 
-See [css](./task_html_css_intro/screenshots/css1.png) and [html](./task_html_css_intro/screenshots/html1.png) screenshots.
+See [css](./task_html_css_intro/screenshots/css1.png) and [html](./task_html_css_intro/screenshots/html1.png) screenshots [codecademy](./task_html_css_intro/screenshots/codecademy.png).
 
 More about the [task](./task_html_css_intro/intro%20to%20HTML%26CSS.md)
 

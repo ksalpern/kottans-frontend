@@ -5,7 +5,7 @@ Hey everyone! My name is Ksenia and I want to be React developer. I do some smal
 I created this repository to study with [kottans](https://github.com/kottans/frontend/blob/2022_UA/contents.md) frontend course. Here are some rules I'm gonna follow while doing stage 0 and shortly about completed tasks. Also you can see more informed feedbacks from me following the links down here, they can remind you some essential things about programming.
 
 Thanks for your time!)
-[](https://tenor.com/view/cat-typing-funny-gif-15400009)
+![](https://tenor.com/view/cat-typing-funny-gif-15400009)
 
 ### For each activity I'll answer the following questions in my repository:
 

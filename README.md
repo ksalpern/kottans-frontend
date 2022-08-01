@@ -1,6 +1,6 @@
 # kottans-frontend
 
-Hey everyone! My name is Ksenia and I want to be React developer. I'm doing some small steps everyday to become a good specialist.
+Hey everyone! My name is Ksenia and I want to be React developer. I do some small steps everyday to become a good specialist.
 
 I created this repository to study with [kottans](https://github.com/kottans/frontend/blob/2022_UA/contents.md) frontend course. Here are some rules I'm gonna follow while doing stage 0 and shortly about completed tasks. Also you can see more informed feedbacks from me following the links down here, they can remind you some essential things about programming.
 

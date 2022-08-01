@@ -6,7 +6,7 @@ I created this repository to study with [kottans](https://github.com/kottans/fro
 
 Thanks for your time!)
 
-![](https://thumbs.gfycat.com/ChubbySelfreliantGarpike-max-1mb.gif)
+![](https://c.tenor.com/HrPoPmKEMCoAAAAd/cat-typing.gif)
 
 ### For each activity I'll answer the following questions in my repository:
 

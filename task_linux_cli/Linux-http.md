@@ -81,6 +81,10 @@ The benefits of using persistent connections are:
 
 ![](https://cdn.tutsplus.com/cdn-cgi/image/width=536/net/authors/jeremymcpeak/http2-authentication.png)
 
+
+
+Check [HTTP: The Protocol Every Web Developer Must Know—Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) and [HTTP: The Protocol Every Web Developer Must Know—Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155) for more information.
+
 #### Linux survival
 
 ##### Some useful commands:
@@ -105,8 +109,6 @@ The benefits of using persistent connections are:
 
 **grep** command finds words in text
 
-
-Check [HTTP: The Protocol Every Web Developer Must Know—Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) and [HTTP: The Protocol Every Web Developer Must Know—Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155) for more information.
 
 
 [come back to README](../README.md)

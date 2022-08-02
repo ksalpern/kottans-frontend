@@ -31,3 +31,9 @@ See screenshots: [collaboration](./task_git_collaboration/screenshots/collaborat
 See [css](./task_html_css_intro/screenshots/css1.png) and [html](./task_html_css_intro/screenshots/html1.png) screenshots [codecademy](./task_html_css_intro/screenshots/codecademy.png).
 
 More about the [task](./task_html_css_intro/intro%20to%20HTML%26CSS.md)
+
+## Responsive Web Design
+
+See screenshots [flexbox-froggy](./task_responsive_web_design/screenshots/flexbox-froggy.png) and [grid-garden](./task_responsive_web_design/screenshots/grid-garden.png)
+
+More about the [task](./task_responsive_web_design/Responsive_design.md)

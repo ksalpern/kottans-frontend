@@ -14,6 +14,12 @@ Thanks for your time!)
 2. name (at least one) thing that surprised me
 3. name (at least one) thing that I'm going to use in the future
 
+## Linux CLI, and HTTP
+
+See screenshots: [Quiz 1](./task_linux_cli/screenshots/quiz1.png), [Quiz 2](./task_linux_cli/screenshots/quiz2.png), [Quiz 3](./task_linux_cli/screenshots/quiz3.png), [Quiz 4](./task_linux_cli/screenshots/quiz4.png)
+
+More about the [task](./task_linux_cli/Linux-http.md)
+
 ## Git Collaboration
 
 See screenshots: [collaboration](./task_git_collaboration/screenshots/collaboration.png), [working with remotes](./task_git_collaboration/screenshots/working-with-remotes.png),[learning git branching1](./task_git_collaboration/screenshots/learn-git-branching1.png), [learning git branching2](./task_git_collaboration/screenshots/learn-git-branching2.png)

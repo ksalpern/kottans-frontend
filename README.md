@@ -1,6 +1,6 @@
 # kottans-frontend
 
-Hey everyone! My name is Ksenia and I want to be React developer. I do some small steps everyday to become a good specialist.
+Hey everyone! My name is Ksenia and I want to be a React developer. I do some small steps everyday to become a good specialist.
 
 I created this repository to study with [kottans](https://github.com/kottans/frontend/blob/2022_UA/contents.md) frontend course. Here are some rules I'm gonna follow while doing stage 0 and shortly about completed tasks. Also you can see more informed feedbacks from me following the links down here, they can remind you some essential things about programming.
 
@@ -22,7 +22,7 @@ More about the [task](./task_linux_cli/Linux-http.md)
 
 ## Git Collaboration
 
-See screenshots: [collaboration](./task_git_collaboration/screenshots/collaboration.png), [working with remotes](./task_git_collaboration/screenshots/working-with-remotes.png),[learning git branching1](./task_git_collaboration/screenshots/learn-git-branching1.png), [learning git branching2](./task_git_collaboration/screenshots/learn-git-branching2.png)
+See screenshots: [collaboration](./task_git_collaboration/screenshots/collaboration.png), [working with remotes](./task_git_collaboration/screenshots/working-with-remotes.png), [learning git branching1](./task_git_collaboration/screenshots/learn-git-branching1.png), [learning git branching2](./task_git_collaboration/screenshots/learn-git-branching2.png)
 
 [More about it](./task_git_collaboration/GitCollaboration.md)
 

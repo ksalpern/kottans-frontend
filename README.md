@@ -52,6 +52,6 @@ More about the [task](./task_js_basics/js_basics.md)
 
 ## DOM
 
-See screenshots 
+See screenshots: [freecodecamp Algorithm Scripting Challenges](./task_js_dom/screenshots/freecodecamp%20Algorithm%20Scripting%20Challenges.png)
 
 More about the [task](./task_js_dom/DOM.md)

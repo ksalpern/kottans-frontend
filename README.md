@@ -46,7 +46,7 @@ See [repo](https://github.com/ksalpern/Hooli-style-Popup)
 
 ## JS Basics
 
-See screenshots with: [Basic JS](./task_js_basics/screenshots/basic-js.png), [ES6](./task_js_basics/screenshots/ES6.png), [Basic Data Structures](./task_js_basics/screenshots/basic-data-structures.png), [Basic Algorithm Scripting ](./task_js_basics/screenshots/basic-algorithm-scripts.png), [Functional Programming](./task_js_basics/screenshots/functional-programming.png), [Algorithm Scripting Challenges](./task_js_basics/screenshots/intermediate-algorithm-scripting.png), 
+See screenshots with: [Basic JS](./task_js_basics/screenshots/basic-js.png), [ES6](./task_js_basics/screenshots/ES6.png), [Basic Data Structures](./task_js_basics/screenshots/basic-data-structures.png), [Basic Algorithm Scripting ](./task_js_basics/screenshots/basic-algorithm-scripts.png), [Functional Programming](./task_js_basics/screenshots/functional-programming.png), [Algorithm Scripting Challenges](./task_js_basics/screenshots/intermediate-algorithm-scripting.png), [Introduction to JS](./task_js_basics/screenshots/Introduction-to-JS.png)
 
 More about the [task](./task_js_basics/js_basics.md)
 

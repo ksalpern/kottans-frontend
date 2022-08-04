@@ -12,7 +12,7 @@ There are older methods available for grabbing element references, such as:
 
 - **Document.getElementById()**, which selects an element with a given id attribute value
 
-- **Document.getElementsByTagName()**, which returns an array-like object containing all the elements on the page of a given type, for example <p>s, <a>s
+- **Document.getElementsByTagName()**, which returns an array-like object containing all the elements on the page of a given type
 
 [Learn DOM manipulation in 18 minutes](https://www.youtube.com/watch?v=y17RuWkWdn8&ab_channel=WebDevSimplified)
 
